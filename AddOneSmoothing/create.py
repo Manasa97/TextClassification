@@ -14,11 +14,6 @@ def compute_prob(cfd,fileno,N,mod_count):
 
     pickle.dump(rescfd,open('op_tri_2.txt','wb'))
 
-
-
-
-
-
 noOfFiles=1
 #fileids=['bryant-stories.txt','carroll-alice.txt','shakespeare-hamlet.txt']
 fileids=['shakespeare-hamlet.txt']
